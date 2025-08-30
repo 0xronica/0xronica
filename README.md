@@ -4,7 +4,7 @@
 
 I’m on an exciting journey of transitioning into tech — learning, building, and contributing along the way.  
 I have experience in **image analysis & annotation**, and I’m growing my skills in **backend development, APIs, and cybersecurity**.  
-![0xronica's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<0xronica's Stats>](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ✨ **What I’m currently up to:**  
